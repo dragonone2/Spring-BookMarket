@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+encoding//src/main/java/com/springmvc/controller/BookController.java=UTF-8
+encoding//src/main/java/com/springmvc/interceptor/MonitoringInterceptor.java=UTF-8
+encoding//src/main/java/com/springmvc/repository/BookRepositoryImpl.java=UTF-8
+encoding//src/main/webapp/WEB-INF/views/welcome.jsp=UTF-8
